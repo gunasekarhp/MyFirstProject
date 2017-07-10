@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jrubyc_java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Softwares/jruby-bin-9.1.12.0.zip!/jruby-9.1.12.0/samples/jrubyc_java" />
+    </SOURCES>
+  </library>
+</component>

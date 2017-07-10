@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Softwares/mkolisnyk-cucumber-reports-cucumber-reports-1.0.8-4-g013b68b.zip!/mkolisnyk-cucumber-reports-013b68b/cucumber-report-generator/src/main/java" />
+      <root url="jar://C:/Softwares/mkolisnyk-cucumber-reports-cucumber-reports-1.0.8-4-g013b68b.zip!/mkolisnyk-cucumber-reports-013b68b/cucumber-report-generator/src/test/java" />
+      <root url="jar://C:/Softwares/mkolisnyk-cucumber-reports-cucumber-reports-1.0.8-4-g013b68b.zip!/mkolisnyk-cucumber-reports-013b68b/cucumber-reporting-maven-plugin/src/main/java" />
+      <root url="jar://C:/Softwares/mkolisnyk-cucumber-reports-cucumber-reports-1.0.8-4-g013b68b.zip!/mkolisnyk-cucumber-reports-013b68b/cucumber-reporting-maven-plugin/src/test/java" />
+      <root url="jar://C:/Softwares/mkolisnyk-cucumber-reports-cucumber-reports-1.0.8-4-g013b68b.zip!/mkolisnyk-cucumber-reports-013b68b/cucumber-runner/src/main/java" />
+      <root url="jar://C:/Softwares/mkolisnyk-cucumber-reports-cucumber-reports-1.0.8-4-g013b68b.zip!/mkolisnyk-cucumber-reports-013b68b/cucumber-runner/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
